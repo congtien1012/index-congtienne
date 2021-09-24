@@ -280,6 +280,24 @@ body{
     transition: all 0.3s;
     transition: all 0.s;
 }
+.box3-style{
+    cursor: pointer;
+}
+.box1-style{
+    cursor: pointer;
+}
+.box2-style{
+    cursor: pointer;
+}
+.box1-part4{
+    cursor: pointer;
+}
+.box2-part4{
+    cursor: pointer;
+}
+.style-part5{
+    cursor: pointer;
+}
 .style-box2{
     color: #FF92B0;
     transition: all 0.3s;
