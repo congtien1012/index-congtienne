@@ -2,7 +2,7 @@
     box-sizing: border-box;
   }
 body{
-    font-family: 'Courier New', Courier, monospace;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 .grid {
     width: 100%;
@@ -43,7 +43,7 @@ body{
 }
 .category-list li a{
     text-decoration:none ;
-    font-family:'Courier New', Courier, monospace;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
     font-size: 20px;
     color: darkslategrey;
     font-weight: bold;
@@ -69,7 +69,7 @@ body{
 
 .btn-menu a{
     padding: 5px 15px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
     border-radius: 10px;
     margin-top: -5px;
     font-weight: bold;
@@ -135,7 +135,7 @@ body{
     text-decoration: none;
     font-size: 23px;
     color: white;
-    font-family: 'Courier New', Courier, monospace;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
     font-weight: bold;
 }
 .categories-small-screen li a:hover{
@@ -204,19 +204,19 @@ body{
 }
 .content-homepage h1{
     font-size: 30px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
     font-weight: bold;
     line-height: 2.8rem;
 }
 .content-homepage p{
     line-height: 2rem;
-    font-family: 'Courier New', Courier, monospace;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
     font-weight: lighter;
     
 }
 .content-homepage a{
     padding: 10px 25px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
     border-radius: 10px;
     margin-top: -5px;
     color: rgb(0, 89, 172);
