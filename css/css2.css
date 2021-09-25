@@ -50,8 +50,8 @@ body{
     transition: all 0.5s;
 }
 .category-list li a:hover{
-    color: rgb(243, 243, 91);
-    background-color: red;
+    color: white;
+    background-color: #DD52F0;
     padding: 5px 15px;
     border-radius: 20px;
 }
